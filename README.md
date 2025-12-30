@@ -14,12 +14,14 @@ Alongside my academic work, I advise organizations on **AI security, adversarial
 
 Whether I am researching, teaching, or consulting, the underlying question remains the same: **how do we design systems that support sound thinking under pressure**, rather than simply accelerating output or automation? 
 
+Below are links to my research, writing, talks, and teaching for those who want to explore further.
+
 ---
 <details>
   <summary><strong>Research & Scholarship</strong></summary>
 
-- Preprints via OSF: Link
-- Title: Link
+- Preprints via OSF: https://osf.io/upkas/
+- ORCID: https://orcid.org/0009-0003-4416-8884
 
 </details>
 
@@ -33,7 +35,7 @@ Whether I am researching, teaching, or consulting, the underlying question remai
 
 ---
 <details>
-  <summary><strong>Articles</strong></summary>
+  <summary><strong>Writing</strong></summary>
   
 - Medium (full archive): https://medium.com/@beyondmerit
 - LinkedIn Newsletter: https://www.linkedin.com/newsletters/cyber-hammer-highlights-7029877667847958528 
@@ -44,7 +46,7 @@ Whether I am researching, teaching, or consulting, the underlying question remai
 <details>
   <summary><strong>Teaching & Training</strong></summary>
   
-- Title: Link
+- MyByte (Training and Learning Resources)
   
 </details>
   
