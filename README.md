@@ -25,25 +25,32 @@ Whether I am researching, teaching, or consulting, the underlying question remai
 
 ---
 <details>
-<summary><strong>Talks & Conferences</strong>strong></summary>
+  <summary><strong>Talks & Conferences</strong></summary>
 - Conference talks and invited lectures (recordings and slides linked via OSF and event sites)
 
 </details>
 ---
-## Writing
+<details>
+  <summary><strong>Writing</strong></summary>
 - Medium: <Medium link>
 - LinkedIn Articles: <LinkedIn articles link>
 
----
-## Teaching & Training
-- MyByte: training, labs, and student-facing learning resources (hosted separately)
+</details>
 
 ---
-## Professional Focus
+<details>
+  <summary><strong>Teaching & Training</strong></summary>
+- MyByte: training, labs, and student-facing learning resources (hosted separately)
+  
+</details>
+
+---
+<details>
+  <summary><strong>Professional Focus</strong></summary>
 - AI Security & Cybersecurity (consulting and advisory)
 - Neurodiversity-informed learning design
 - AI literacy and human–AI interaction
-
+  
 ---
 ## Contact
 LinkedIn: https://www.linkedin.com/in/micmerritt/
