@@ -42,14 +42,6 @@ Whether I am researching, teaching, or consulting, the underlying question remai
 
 ---
 <details>
-  <summary><strong>LinkedIn Articles</strong></summary>
-  
-- Title: Link
-
-</details>
-
----
-<details>
   <summary><strong>Teaching & Training</strong></summary>
   
 - Title: Link
@@ -58,7 +50,7 @@ Whether I am researching, teaching, or consulting, the underlying question remai
   
 ---
 <details>
-  <summary><strong>Contact Details</strong></summary>
+  <summary><strong>Contact Information</strong></summary>
   
 - LinkedIn: https://www.linkedin.com/in/micmerritt/
 - Personal Website: https://www.micmerritt.com/
