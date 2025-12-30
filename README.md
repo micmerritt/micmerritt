@@ -36,7 +36,7 @@ Whether I am researching, teaching, or consulting, the underlying question remai
   <summary><strong>Articles</strong></summary>
   
 - Medium (full archive): https://medium.com/@beyondmerit
-- LinkedIn Newsletters: https://www.linkedin.com/newsletters/cyber-hammer-highlights-7029877667847958528 
+- LinkedIn Newsletter: https://www.linkedin.com/newsletters/cyber-hammer-highlights-7029877667847958528 
 
 </details>
 
