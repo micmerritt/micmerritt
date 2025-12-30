@@ -27,6 +27,30 @@ Below are links to my research, writing, talks, and teaching for those who want 
 
 ---
 <details>
+  <summary><strong>Featured Talks</strong></summary>
+
+- **MELON Masked Re-Execution: A Practical Defense Against Indirect Prompt Injection**  
+  Rocky Mountain Information Security Conference, 2025
+
+- **Quantifying LLM Jailbreak Risk: MITRE ATLAS Mapping & Cost-of-Delay Models for Boards**  
+  Air & Space Forces Association (AFA) Warfare Symposium, 2025
+
+- **Zero-Trust Kubernetes: Red Team Guardrails that Cut Container Escapes**  
+  Armed Forces Communications & Electronics Association (AFCEA), Rocky Mountain Cyberspace Symposium, 2024
+
+- **$400 Adversarial-AI Lab: Democratizing LLM Red-Team Education**  
+  Western Governors University, Cybersecurity Club, 2023
+
+- **Mastering Emotional Intelligence in the World of Artificial Intelligence**  
+  Women in Tech Summit (WITS), 2020
+
+- **Combat Automated Cybersecurity Attacks with Automated Defense Strategies**  
+  Security BSides Denver, 2018
+
+</details>
+
+---
+<details>
   <summary><strong>Writing</strong></summary>
   
 - Medium (full archive): https://medium.com/@beyondmerit
