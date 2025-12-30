@@ -40,4 +40,4 @@ Whether I am researching, teaching, or consulting, the underlying question remai
 
 ---
 ## Contact
-- LinkedIn: [<LinkedIn profile link>](https://www.linkedin.com/in/micmerritt/)
+- LinkedIn: https://www.linkedin.com/in/micmerritt/
