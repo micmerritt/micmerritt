@@ -1,6 +1,3 @@
-<!--
-**micmerritt/micmerritt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Mic Merritt
 
 Independent scholar and practitioner working on cognition, AI, and security in complex systems.
