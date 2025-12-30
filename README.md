@@ -18,40 +18,50 @@ Whether I am researching, teaching, or consulting, the underlying question remai
 <details>
   <summary><strong>Research & Scholarship</strong></summary>
 
-- Open Science Framework (preprints, papers, slides): <OSF link>
-- Academic work in AI literacy, neurodiversity, metacognition, and human–AI interaction
+- Title: Link
+- Title: Link
 
 </details>
 
 ---
 <details>
   <summary><strong>Talks & Conferences</strong></summary>
-- Conference talks and invited lectures (recordings and slides linked via OSF and event sites)
+  
+- Title: Link
 
 </details>
+
 ---
 <details>
-  <summary><strong>Writing</strong></summary>
-- Medium: <Medium link>
-- LinkedIn Articles: <LinkedIn articles link>
+  <summary><strong>Medium Articles</strong></summary>
+  
+- Title: Link
+
+</details>
+
+---
+<details>
+  <summary><strong>LinkedIn Articles</strong></summary>
+  
+- Title: Link
 
 </details>
 
 ---
 <details>
   <summary><strong>Teaching & Training</strong></summary>
-- MyByte: training, labs, and student-facing learning resources (hosted separately)
+- Title: Link
+  
+</details>
+  
+---
+<details>
+  <summary><strong>Contact Details</strong></summary>
+  
+LinkedIn: https://www.linkedin.com/in/micmerritt/
+Personal Website: https://www.micmerritt.com/
+TryHackMe Profile: https://tryhackme.com/p/N3t0s
   
 </details>
 
----
-<details>
-  <summary><strong>Professional Focus</strong></summary>
-- AI Security & Cybersecurity (consulting and advisory)
-- Neurodiversity-informed learning design
-- AI literacy and human–AI interaction
-  
----
-## Contact
-LinkedIn: https://www.linkedin.com/in/micmerritt/
 
