@@ -50,6 +50,7 @@ Whether I am researching, teaching, or consulting, the underlying question remai
 ---
 <details>
   <summary><strong>Teaching & Training</strong></summary>
+  
 - Title: Link
   
 </details>
@@ -58,9 +59,9 @@ Whether I am researching, teaching, or consulting, the underlying question remai
 <details>
   <summary><strong>Contact Details</strong></summary>
   
-LinkedIn: https://www.linkedin.com/in/micmerritt/
-Personal Website: https://www.micmerritt.com/
-TryHackMe Profile: https://tryhackme.com/p/N3t0s
+- LinkedIn: https://www.linkedin.com/in/micmerritt/
+- Personal Website: https://www.micmerritt.com/
+- TryHackMe Profile: https://tryhackme.com/p/N3t0s
   
 </details>
 
