@@ -33,9 +33,10 @@ Whether I am researching, teaching, or consulting, the underlying question remai
 
 ---
 <details>
-  <summary><strong>Medium Articles</strong></summary>
+  <summary><strong>Articles</strong></summary>
   
-- Title: Link
+- Medium (full archive): https://medium.com/@beyondmerit
+- LinkedIn Newsletters: https://www.linkedin.com/newsletters/cyber-hammer-highlights-7029877667847958528 
 
 </details>
 
