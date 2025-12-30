@@ -40,4 +40,5 @@ Whether I am researching, teaching, or consulting, the underlying question remai
 
 ---
 ## Contact
-<a href="https://www.linkedin.com/in/micmerritt/" target="_blank" rel="noopener noreferrer">LinkedIn - Mic Merritt</a>
+LinkedIn: https://www.linkedin.com/in/micmerritt/
+
