@@ -44,7 +44,7 @@ Below are links to my research, writing, talks, and teaching for those who want 
   
 ---
 <details>
-  <summary><strong>Contact Information</strong></summary>
+  <summary><strong>Additional Profiles and Websites</strong></summary>
   
 - LinkedIn: https://www.linkedin.com/in/micmerritt/
 - Personal Website: https://www.micmerritt.com/
