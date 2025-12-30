@@ -16,7 +16,7 @@ Whether I am researching, teaching, or consulting, the underlying question remai
 
 ---
 <details>
-  <summary><strong>## Research & Scholarship</strong></summary>
+  <summary><strong>Research & Scholarship</strong></summary>
 
 - Open Science Framework (preprints, papers, slides): <OSF link>
 - Academic work in AI literacy, neurodiversity, metacognition, and human–AI interaction
@@ -24,9 +24,11 @@ Whether I am researching, teaching, or consulting, the underlying question remai
 </details>
 
 ---
-## Talks & Conferences
+<details>
+<summary><strong>Talks & Conferences</strong>strong></summary>
 - Conference talks and invited lectures (recordings and slides linked via OSF and event sites)
 
+</details>
 ---
 ## Writing
 - Medium: <Medium link>
