@@ -27,14 +27,6 @@ Below are links to my research, writing, talks, and teaching for those who want 
 
 ---
 <details>
-  <summary><strong>Talks & Conferences</strong></summary>
-  
-- Title: Link
-
-</details>
-
----
-<details>
   <summary><strong>Writing</strong></summary>
   
 - Medium (full archive): https://medium.com/@beyondmerit
