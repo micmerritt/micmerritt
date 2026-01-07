@@ -65,15 +65,5 @@ Below are links to my research, writing, talks, and teaching for those who want 
 - MyByte (Training and Learning Resources)
   
 </details>
-  
----
-<details>
-  <summary><strong>Additional Profiles and Websites</strong></summary>
-  
-- LinkedIn: https://www.linkedin.com/in/micmerritt/
-- Personal Website: https://www.micmerritt.com/
-- TryHackMe Profile: https://tryhackme.com/p/N3t0s
-  
-</details>
 
 
