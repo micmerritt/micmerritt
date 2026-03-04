@@ -1,4 +1,4 @@
-## Mic Merritt
+## Dr. Mic Merritt
 
 Independent scholar and practitioner working on cognition, AI, and security in complex systems.
 
